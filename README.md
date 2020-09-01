@@ -2,7 +2,7 @@
 
 This is the Laravel backend for socialreact.
 
-This is the backend for my distributed social network node. See socialreact for the real meat of the project. This is Laravel which controlls the backend and interacts with my mysql database hosted in google-cloud. And it was such a pain in the neck to get deployed that I never had time to add new features and polish the UI like I wished.
+This is the backend for my distributed social network node. See socialreact for the real meat of the project. This is Laravel which controls the backend and interacts with my mysql database hosted in google-cloud. And it was such a pain in the neck to get deployed that I never had time to add new features and polish the UI like I wished.
 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
